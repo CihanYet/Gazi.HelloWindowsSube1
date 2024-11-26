@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.HelloWindowsSube1", "Gazi.HelloWindowsSube1\Gazi.HelloWindowsSube1.csproj", "{6DC4EB76-01F3-4F96-861B-D2F6B733B7EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oyun.Model", "Oyun.Model\Oyun.Model.csproj", "{F27589D8-46C3-4ACA-9950-FCB1508A8204}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6DC4EB76-01F3-4F96-861B-D2F6B733B7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DC4EB76-01F3-4F96-861B-D2F6B733B7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DC4EB76-01F3-4F96-861B-D2F6B733B7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27589D8-46C3-4ACA-9950-FCB1508A8204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F27589D8-46C3-4ACA-9950-FCB1508A8204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F27589D8-46C3-4ACA-9950-FCB1508A8204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F27589D8-46C3-4ACA-9950-FCB1508A8204}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
